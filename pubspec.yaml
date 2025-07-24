@@ -7,7 +7,7 @@ repository: https://github.com/the-airbender/quill_html_editor
 maintainer: Pavan Kumar Nagulavancha
 
 environment:
-  sdk: ">=3.0.0 <=3.6.1"
+  sdk: ">=3.0.0 <=4.0.0"
   flutter: 3.27.3
 
 dependencies:
